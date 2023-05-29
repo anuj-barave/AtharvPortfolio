@@ -1,6 +1,6 @@
 <template>
   <div class="footer container-fluid">
-    <span>Developed By Atharv Udawant | &#169; 2023 All rights reserved.</span>
+    <span>Developed By Mayur Ghodekar | &#169; 2023 All rights reserved.</span>
   </div>
 </template>
 

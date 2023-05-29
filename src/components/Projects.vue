@@ -46,6 +46,24 @@ export default {
           ],
           anime: "fade-right",
         },
+
+        {
+          title: "Smart Security",
+          description:
+            "Problem Statement: Develop a QR based entry record system which can replace traditional pen paper-based system.Developed a real time QR based entry record system for visitors of college which can be used at different places in college like attendance, entry record and to maintain hostel records.",
+          icon: require("../assets/logofinal.png"),
+          skills: [
+            "AWS",
+            "AZURE",
+            "NodeJS",
+            "JavaScrit",
+            "Firebase",
+            "HTML",
+            "CSS",
+            "Bootstrap",
+          ],
+          anime: "fade-right",
+        },
       ],
     };
   },

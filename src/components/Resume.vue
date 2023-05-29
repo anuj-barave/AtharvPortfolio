@@ -260,6 +260,15 @@ export default {
           skills: ["Azure", "Terraform"],
           icon: "https://media.glassdoor.com/sql/2321380/celebal-technologies-squarelogo-1588749669479.png",
         },
+        {
+          name: "University of East Anglia, Norwich, England",
+          designation: "Research Intern",
+          duration: "June 2021 - July 2021",
+          description1: "Internship",
+          description: "",
+          skills: ["HTML", "CSS"],
+          icon: "https://media.glassdoor.com/sql/2321380/celebal-technologies-squarelogo-1588749669479.png",
+        },
       ],
       skills: [
         {

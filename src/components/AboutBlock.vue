@@ -12,7 +12,7 @@
           <div class="myphoto">
             <img
               class="about-me-img"
-              src="https://media.licdn.com/dms/image/C4D03AQHDwVMoCyTwLA/profile-displayphoto-shrink_800_800/0/1658216965547?e=1686787200&v=beta&t=pU-pOFw7985l403WHOWaqtkU6x69nWxp_dPTlUCewns"
+              src="https://drive.google.com/file/d/1NkPFciLnBmWdJzhqCS_g_fWvLr4B1Gtc/view?usp=sharing"
             />
           </div>
         </div>
@@ -34,11 +34,11 @@
               <table class="about-me-table table borderless">
                 <tr>
                   <th>Name:</th>
-                  <td>Atharv Udawant</td>
+                  <td>Mayur Ghodekar</td>
                 </tr>
                 <tr>
                   <th>Date of Birth:</th>
-                  <td>December 12, 2001</td>
+                  <td>September 23, 2001</td>
                 </tr>
                 <tr>
                   <th>Address:</th>
@@ -50,11 +50,11 @@
                 </tr>
                 <tr>
                   <th>Email:</th>
-                  <td>aaudawant@mitaoe.ac.in</td>
+                  <td>msghodekar@mitaoe.ac.in</td>
                 </tr>
                 <tr>
                   <th>Phone:</th>
-                  <td>+917447293818</td>
+                  <td>+91 7522914357</td>
                 </tr>
               </table>
             </div>

@@ -2,8 +2,8 @@
   <div class="center-horizontal-vertical">
     <div class="text-1" data-aos="fade-down">HEY! I AM</div>
     <div>
-      <div class="text-2" data-aos="fade-right">Atharv</div>
-      <div class="text-2" data-aos="fade-left">&nbsp;Udawant</div>
+      <div class="text-2" data-aos="fade-right">Mayur</div>
+      <div class="text-2" data-aos="fade-left">&nbsp;Ghodekar</div>
     </div>
     <div class="text-3" data-aos="fade-up">
       I'm a <span class="typing"></span>
